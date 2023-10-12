@@ -1,6 +1,6 @@
 # VideoEmotionRecognizer
 
-This app allows you to recognize the emotions using a video file.
+This app allows you to recognize the emotions using a video file. It uses PyTorch models in EvaDB to detect faces and classify their emotions.
 
 # Setup
 
